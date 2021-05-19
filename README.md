@@ -5,13 +5,13 @@ This repo uses a Python library called [Folium](https://python-visualization.git
 This repo contains both a colab notebook and python script that quickly and easily generates two interactive maps that identify Starbucks locations in Los Angeles County, CA and a chloropleth map of the United States that shows the unemployment rate as a percent of population.
 
 The first product develops a chloropleth map that depcits Starbucks locations within zip codes. It should look like this.
-![LAMap](images/LAMap.png)
+![LAMap](images/LAMap.PNG)
 
 The second product generates a map showing precise indivudual locations as points within Los Angeles, County, CA. It should look similar to this.
-![LAMap](images/USMap.png)
+![LAMap](images/USMap.PNG)
 
 The final product develops the United States Chloropleth of Unemployment rate (as a percent of population). It should be similar to this.
-![LAMap](images/idv_locations.png)
+![LAMap](images/idv_locations.PNG)
 
 
 
